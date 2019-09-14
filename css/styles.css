@@ -217,3 +217,8 @@ h2{
         margin: 19% 3% 8% 1%;
     }
 }
+@media(max-width:991px){
+    .features-colums{
+        padding: 0 206px;
+    }   
+}
